@@ -30,7 +30,7 @@ twitter_username: daigoroutaso
 github_username:  daigoroutaso
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
